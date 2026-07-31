@@ -1,6 +1,5 @@
-<p align="center">
-  #  XYlofy AI Data Science Internship Projects
-</p>
+ #  XYlofy AI Data Science Internship Projects
+
 
 <p align="center">
   <img width="1128" height="191" alt="xylofy_ai_cover" src="https://github.com/user-attachments/assets/7a092e20-660c-4060-981a-832f6c6438ad" />
