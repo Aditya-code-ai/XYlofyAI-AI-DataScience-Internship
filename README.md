@@ -61,17 +61,6 @@ The projects demonstrate the complete Data Science workflow:
 
 ---
 
-# 🎥 Interactive Streamlit Dashboard
-
-<p align="center">
-  <img width="800" height="450" alt="Streamlit-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2cc5cc3a-8358-49f4-8f69-1c8e4a1ff3ba" />
-
-</p>
-
-<p align="center">
-Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Product Segmentation
-</p>
-
 # 📂 Repository Structure
 
 ```
@@ -219,27 +208,17 @@ Develop a production-style Sales Forecasting platform capable of predicting futu
 
 ---
 
-# 🚀 Streamlit Dashboard
-
-The deployed dashboard provides:
-
-- 📊 Sales Overview Dashboard
-- 📈 Future Sales Forecast
-- ⚠️ Anomaly Detection Report
-- 📦 Product Demand Segmentation
-- 📉 Business Insights
-
-### Dashboard Preview
+# 🎥 Interactive Streamlit Dashboard
 
 <p align="center">
-
-<img src="Week3_&_Week4_End-to-End_Sales_Forecasting/Charts/dashboard1.png" width="90%">
-
-<img src="Week3_&_Week4_End-to-End_Sales_Forecasting/Charts/dashboard2.png" width="90%">
-
-<img src="Week3_&_Week4_End-to-End_Sales_Forecasting/Charts/dashboard3.png" width="90%">
+  <img width="800" height="450" alt="Streamlit-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2cc5cc3a-8358-49f4-8f69-1c8e4a1ff3ba" />
 
 </p>
+
+<p align="center">
+Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Product Segmentation
+</p>
+
 
 ---
 
