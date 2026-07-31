@@ -1,7 +1,7 @@
 # 🚀 XYlofy AI Data Science Internship Projects
 
 <p align="center">
-  <img src="images/banner.png" width="100%">
+  <img width="1128" height="191" alt="xylofy_ai_cover" src="https://github.com/user-attachments/assets/7a092e20-660c-4060-981a-832f6c6438ad" />
 </p>
 
 <p align="center">
