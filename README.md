@@ -61,6 +61,17 @@ The projects demonstrate the complete Data Science workflow:
 
 ---
 
+# 🎥 Interactive Streamlit Dashboard
+
+<p align="center">
+  <img width="800" height="450" alt="Streamlit-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2cc5cc3a-8358-49f4-8f69-1c8e4a1ff3ba" />
+
+</p>
+
+<p align="center">
+Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Product Segmentation
+</p>
+
 # 📂 Repository Structure
 
 ```
