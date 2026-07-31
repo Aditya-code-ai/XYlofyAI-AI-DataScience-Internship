@@ -1,4 +1,4 @@
-# 🚀 XYlofy AI Data Science Internship Projects
+#  XYlofy AI Data Science Internship Projects
 
 <p align="center">
   <img width="1128" height="191" alt="xylofy_ai_cover" src="https://github.com/user-attachments/assets/7a092e20-660c-4060-981a-832f6c6438ad" />
@@ -44,9 +44,9 @@ This repository contains all the projects completed during my **Data Science Int
 
 Throughout the internship, I worked on real-world machine learning and business analytics problems including:
 
-- 🏠 House Price Prediction
-- 👨‍💼 Employee Attrition Prediction
-- 📈 End-to-End Sales Forecasting & Demand Intelligence System
+-  House Price Prediction
+-  Employee Attrition Prediction
+-  End-to-End Sales Forecasting & Demand Intelligence System
 
 The projects demonstrate the complete Data Science workflow:
 
@@ -61,7 +61,7 @@ The projects demonstrate the complete Data Science workflow:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 XYlofy-AI-Data-Science-Internship
@@ -95,11 +95,11 @@ XYlofy-AI-Data-Science-Internship
 
 ---
 
-# 📌 Internship Projects
+#  Internship Projects
 
 ---
 
-## 🏠 Week 1 — House Price Prediction
+##  Week 1 — House Price Prediction
 
 ### Objective
 
@@ -141,7 +141,7 @@ Build a Machine Learning model capable of predicting house prices using property
 
 ---
 
-## 👨‍💼 Week 2 — Employee Attrition Prediction
+##  Week 2 — Employee Attrition Prediction
 
 ### Objective
 
@@ -180,7 +180,7 @@ Predict whether an employee is likely to leave the company using HR Analytics da
 
 ---
 
-## 📈 Week 3 & Week 4 — End-to-End Sales Forecasting & Demand Intelligence System
+##  Week 3 & Week 4 — End-to-End Sales Forecasting & Demand Intelligence System
 
 ### Objective
 
@@ -208,7 +208,7 @@ Develop a production-style Sales Forecasting platform capable of predicting futu
 
 ---
 
-# 🎥 Interactive Streamlit Dashboard
+#  Interactive Streamlit Dashboard
 
 <p align="center">
   <img width="800" height="450" alt="Streamlit-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2cc5cc3a-8358-49f4-8f69-1c8e4a1ff3ba" />
@@ -219,10 +219,9 @@ Develop a production-style Sales Forecasting platform capable of predicting futu
 Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Product Segmentation
 </p>
 
-
 ---
 
-# 📊 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -239,36 +238,12 @@ Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Pr
 
 ---
 
-# 📷 Project Gallery
-
-You can include screenshots like:
-
-### Week 1
-
-- Correlation Heatmap
-- Actual vs Predicted Prices
-- Price Distribution
-
-### Week 2
-
-- Confusion Matrix
-- Feature Importance
-- Attrition Dashboard
-
-### Week 3
-
-- Sales Dashboard
-- Forecast Charts
-- Anomaly Detection
-- Clustering Results
-
----
-
-# 📜 Internship Certificate
+#  Internship Certificate
 
 <p align="center">
 
-<img src="Certificate/Certificate.png" width="700">
+<img width="454" height="645" alt="image" src="https://github.com/user-attachments/assets/2b83a550-c557-4d12-8932-036bcab3e1f5" />
+
 
 </p>
 
@@ -276,11 +251,11 @@ Successfully completed the **Data Science Internship at XYlofy AI**, working on 
 
 ---
 
-# 📄 Internship Offer Letter
+#  Internship Offer Letter
 
 <p align="center">
 
-<img src="Offer Letter/Offer Letter.png" width="700">
+<img width="457" height="650" alt="image" src="https://github.com/user-attachments/assets/741658b5-6a26-461f-8f7a-e7ad9fb46525" />
 
 </p>
 
@@ -288,7 +263,7 @@ Received the internship offer from **XYlofy AI**, beginning a structured project
 
 ---
 
-# 🎯 Key Skills Demonstrated
+#  Key Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -306,7 +281,7 @@ Received the internship offer from **XYlofy AI**, beginning a structured project
 
 ---
 
-# ⭐ Learning Outcomes
+#  Learning Outcomes
 
 During this internship I gained practical experience in:
 
@@ -319,13 +294,13 @@ During this internship I gained practical experience in:
 
 ---
 
-# ⚠️ Note
+#  Note
 
 The datasets used in this repository are publicly available from Kaggle and are intended solely for educational and learning purposes.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Aditya Pratap Singh**
 
@@ -335,7 +310,7 @@ National Institute of Technology Silchar
 
 GitHub: https://github.com/Aditya-code-ai
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/aditya-pratap-singh-0a845b373
 
 ---
 
