@@ -239,20 +239,7 @@ Real-time Sales Forecasting • Demand Intelligence • Anomaly Detection • Pr
 
 ---
 
-#  Internship Certificate
-
-<p align="center">
-
-<img width="454" height="645" alt="image" src="https://github.com/user-attachments/assets/2b83a550-c557-4d12-8932-036bcab3e1f5" />
-
-
-</p>
-
-Successfully completed the **Data Science Internship at XYlofy AI**, working on real-world Machine Learning and Business Analytics projects. :contentReference[oaicite:0]{index=0}
-
----
-
-#  Internship Offer Letter
+ #  Internship Offer Letter
 
 <p align="center">
 
@@ -260,7 +247,19 @@ Successfully completed the **Data Science Internship at XYlofy AI**, working on 
 
 </p>
 
-Received the internship offer from **XYlofy AI**, beginning a structured project-based learning experience focused on practical Data Science applications. :contentReference[oaicite:1]{index=1}
+Received the internship offer from **XYlofy AI**, beginning a structured project-based learning experience focused on practical Data Science applications. 
+
+---
+
+#  Internship Certificate
+
+<p align="center">
+
+<img width="454" height="645" alt="image" src="https://github.com/user-attachments/assets/2b83a550-c557-4d12-8932-036bcab3e1f5" />
+
+</p>
+
+Successfully completed the **Data Science Internship at XYlofy AI**, working on real-world Machine Learning and Business Analytics projects.
 
 ---
 
