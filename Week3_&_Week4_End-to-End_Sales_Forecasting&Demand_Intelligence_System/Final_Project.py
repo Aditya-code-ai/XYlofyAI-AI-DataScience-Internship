@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Task 1 — Data Loading, Merging & Deep Exploration
 
 # In[119]:
